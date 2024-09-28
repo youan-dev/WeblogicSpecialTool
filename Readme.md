@@ -42,9 +42,6 @@ Struts2:
 Weblogic:
 暂无
 
-Struts2:
-暂无
-
 ```
 
 
@@ -59,7 +56,7 @@ Struts2:
 
 weblogic 单目标漏洞批量检测，
 
-`java -jar javaRce.jar -weblogic targetIP targetPort ldapUrl`
+`java -jar WeblogicSpecialTool.jar -weblogic targetIP targetPort ldapUrl`
 
 
 
